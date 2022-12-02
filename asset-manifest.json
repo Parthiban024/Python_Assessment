@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Python_Assessment/static/css/main.6ce403ca.css",
+    "main.js": "/Python_Assessment/static/js/main.81f3240b.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Python_Assessment/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/sample_1.png": "/Python_Assessment/static/media/sample_1.908aa40ee03cab2fbd3b.png",
+    "static/media/Ass_image_one.png": "/Python_Assessment/static/media/Ass_image_one.94af9cf58abd3ba4fc77.png",
+    "static/media/sample_2.png": "/Python_Assessment/static/media/sample_2.4505d892d4b2d5f91842.png",
+    "static/media/Obw_Image.png": "/Python_Assessment/static/media/Obw_Image.2513a0230338684ce6f6.png",
+    "index.html": "/Python_Assessment/index.html",
+    "main.6ce403ca.css.map": "/Python_Assessment/static/css/main.6ce403ca.css.map",
+    "main.81f3240b.js.map": "/Python_Assessment/static/js/main.81f3240b.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Python_Assessment/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ce403ca.css",
+    "static/js/main.81f3240b.js"
+  ]
+}
